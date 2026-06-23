@@ -18,7 +18,7 @@ I am a last-year Physics and Mathematics student at Universidad Complutense de M
 
 ## Some of my projects
 
-* **[Anexo: Teoría de la Información Cuántica (FT37)](https://github.com/alvaromandado/TFG-FT37-Mandado-Diaz-Alvaro-25-26)**: Quantum algorithms simulations (Deutsch-Jozsa, Grover, Shor) on Python/Qiskit, as part of my Bachelor's thesis for my Physics degree.
+* **[Anexo: Teoría de la Información Cuántica y Computación Cuántica (FT37)](https://github.com/alvaromandado/TFG-FT37-Mandado-Diaz-Alvaro-25-26)**: Quantum algorithms simulations (Deutsch-Jozsa, Grover, Shor) on Python/Qiskit, as part of my Bachelor's thesis for my Physics degree.
 * **[Anexo: Introducción al control óptimo en la dinámica de sistemas cuánticos (Departamento de Análisis Matemático y Matemática Aplicada)](https://github.com/alvaromandado/TFG-AMMA-Mandado-Diaz-Alvaro-25-26)**: Optimal control applied to quantum systems (qubits, qutrits, quantum gates) on Python/QuTiP/SciPy, as part of my Bachelor's thesis for my Mathematics degree.
 
 ## Contact
