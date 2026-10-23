@@ -1,10 +1,10 @@
 # Hey! My name is Álvaro Mandado Díaz, welcome to my profile!
 
-I am a last-year Physics and Mathematics student at Universidad Complutense de Madrid. I have a technical and analytical profile, with special interest in the development of applied mathematics and computational physics related projects. More specifically, you will find here numerous commits about projects regarding quantum systems.
+I am a Physicist and a Mathematician who is currently studying the Quantum Engineering MSc at ETH Zürich. I have a technical and analytical profile, with special interest in the development of applied mathematics and computational physics related projects. More specifically, you will find here numerous commits about projects regarding quantum systems.
 
 ## About me
 
-* I am currently working on two Bachelor's Thesis. For my Physics degree I am working on a project on quantum algorithms, and for my Mathematics degree I am working on a project on applied mathematics. Here you can find codes used in both of the thesis.
+* I have worked on two Bachelor's Thesis. For my Physics degree I focused on quantum algorithms, and for my Mathematics degree I focused on quantum optimal control theory. Here you can find codes used in both of the thesis.
 * I have practical experience implementing quantum algorithms using Qiskit, solving ODEs and PDEs numerically and solving optimal control problems numerically.
 * I am passionate about teaching, and I am currently a Speedrun Teacher with Proxus Academy.
 
